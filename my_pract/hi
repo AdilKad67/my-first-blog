@@ -1,0 +1,6 @@
+number = 3
+
+while number < 7:
+    print(f"number = {number}")
+    number +- 1
+print("Работа программы завершена")
